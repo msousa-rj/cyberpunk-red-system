@@ -1,0 +1,18 @@
+{
+    "id": "cyberpunk-red",
+    "title": "Cyberpunk RED",
+    "description": "Sistema para Cyberpunk RED no Foundry VTT",
+    "version": "0.1.0",
+    "author": "Seu Nome",
+    "minimumCoreVersion": "11",
+    "compatibleCoreVersion": "12",
+    "template": "template.json",
+    "scripts": [
+      "assets/js/system.js"
+    ],
+    "styles": [
+      "assets/css/style.css"
+    ],
+    "packs": []
+    
+  }
